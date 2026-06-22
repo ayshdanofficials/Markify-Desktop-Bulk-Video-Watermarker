@@ -12,8 +12,8 @@ Official pre-compiled production binaries for Windows 10 and 11:
 
 | Distribution Type | Description | Download Link |
 | :--- | :--- | :--- |
-| **Windows Installer Setup** | Standard system installer. Configures desktop shortcuts and registers the application within Windows programs. | [Download Markify Setup v1.0.0](https://github.com/ayshdanofficials/markify/releases/download/v1.0.0/Markify.Setup.1.0.0.exe) |
-| **Windows Portable Archive** | Standalone portable release. Requires no installation. Extract the ZIP and execute `Markify.exe` instantly. | [Download Markify Portable ZIP](https://github.com/ayshdanofficials/markify/releases/download/v1.0.0/Markify-Portable.zip) |
+| **Windows Installer Setup** | Standard system installer. Configures desktop shortcuts and registers the application within Windows programs. | [Download Markify Setup v1.0.0](https://github.com/ayshdanofficials/Markify-Desktop-Bulk-Video-Watermarker/releases/download/v1.0.0/Markify.Setup.1.0.0.exe) |
+| **Windows Portable Archive** | Standalone portable release. Requires no installation. Extract the ZIP and execute `Markify.exe` instantly. | [Download Markify Portable ZIP](https://github.com/ayshdanofficials/Markify-Desktop-Bulk-Video-Watermarker/releases/download/v1.0.0/Markify-Portable.zip) |
 
 ---
 
@@ -75,8 +75,8 @@ Manage the live preview player using the following key bindings:
 ### Installation Steps
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/ayshdan/markify.git
-    cd markify
+    git clone https://github.com/ayshdanofficials/Markify-Desktop-Bulk-Video-Watermarker.git
+    cd Markify-Desktop-Bulk-Video-Watermarker
     ```
 2.  Install dependencies:
     ```bash
